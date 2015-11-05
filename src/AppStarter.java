@@ -18,8 +18,8 @@ public class AppStarter extends Application {
         primaryStage.setTitle("JavaFX App");
         primaryStage.setScene(scene);
 
-        primaryStage.setWidth(400);
-        primaryStage.setHeight(300);
+        primaryStage.setWidth(750);
+        primaryStage.setHeight(600);
         primaryStage.centerOnScreen();
 
         primaryStage.show();

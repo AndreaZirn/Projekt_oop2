@@ -1,9 +1,6 @@
 import javafx.scene.control.Button;
 import javafx.scene.layout.BorderPane;
 
-/**
- * Created by andreazirn on 04/11/15.
- */
 public class AppUI extends BorderPane {
 
     private Button button;

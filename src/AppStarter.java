@@ -3,9 +3,6 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-/**
- * Created by andreazirn on 04/11/15.
- */
 public class AppStarter extends Application {
 
 
